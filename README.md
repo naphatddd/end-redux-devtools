@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # end-route
 # end-form-last
 # end-form-last
+# end-redux-devtools
